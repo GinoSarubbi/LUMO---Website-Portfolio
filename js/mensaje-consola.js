@@ -1,0 +1,3 @@
+console.log('%cLUMO Demo by Gino Sarubbi', 'color: white; background: black; padding: 8px 16px; font-size: 16px; font-weight: bold;');
+console.log('%chttps://www.ginosarubbi.com', 'color: white; background: black; padding: 8px 16px; font-size: 16px; font-weight: bold;');
+console.log('%cContactame a gsarubbi28@gmail.com', 'color: white; background: black; padding: 8px 16px; font-size: 16px; font-weight: bold;');
